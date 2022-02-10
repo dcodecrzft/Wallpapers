@@ -26,5 +26,5 @@ hsetroot -cover /path/to/the/picture/
 ```
 For the wallpaper to persist on all your sessions with your preferred window manager, if you're using Xinit/Startx:
 ```bash
-echo "hsetroot -cover /path/to/the/picture/ >> ~/.xinitrc"
+echo "hsetroot -cover /path/to/the/picture/ &" >> ~/.xinitrc
 ```
