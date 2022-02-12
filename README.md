@@ -29,5 +29,6 @@ For the wallpaper to persist on all your sessions with your preferred window man
 echo "hsetroot -cover /path/to/the/picture/ &" >> ~/.xinitrc
 ```
 Credit:
-Grabbed most of off reddit. r/unixporn for the win!
-https://mocah.org
+- Grabbed most of off reddit. r/unixporn for the win!
+- https://mocah.org
+
